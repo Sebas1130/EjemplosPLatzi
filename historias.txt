@@ -6,9 +6,17 @@ sebastian esta colaborando con Freedy para un proyecto
 
 Experimento 1
 
+<<<<<<< HEAD
 
 Master 1
 
+=======
+Master 1
+
+Emocionado por estar Aprendiendo Cada Dia Mas
+
+Aprender git con Freddy fue muy sencillo es muy buen profesor 
+>>>>>>> archivo-mejorado
 
 Mañana Nos Enfocamos A Aprender Mas De Python
 
